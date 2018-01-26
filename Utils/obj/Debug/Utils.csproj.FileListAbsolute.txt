@@ -1,0 +1,5 @@
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\Utils\bin\Debug\Utils.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\Utils\bin\Debug\Utils.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\Utils\obj\Debug\Utils.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\Utils\obj\Debug\Utils.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache

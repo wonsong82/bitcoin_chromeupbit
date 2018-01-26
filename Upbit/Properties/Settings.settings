@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Upbit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Coins" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BTC,XRP,ETH,BCC,NEO,ADA</Value>
+    </Setting>
+    <Setting Name="CycleMoney" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="profitThreshold" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="RemoteAddresses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9222</Value>
+    </Setting>
+    <Setting Name="Coins_Copy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BTC,XRP,ETH,BCC,NEO,ADA,LTC,ETC,ZEC,OMG,BTG,XMR,DASH</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

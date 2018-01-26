@@ -1,0 +1,15 @@
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\ChromeRemote.dll.config
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\ChromeRemote.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\ChromeRemote.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\Newtonsoft.Json.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\SocketIOClient.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\WebSocket4Net.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\Newtonsoft.Json.xml
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\SocketIOClient.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\SocketIOClient.xml
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\WebSocket4Net.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\obj\Debug\ChromeRemote.csprojResolveAssemblyReference.cache
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\obj\Debug\ChromeRemote.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\obj\Debug\ChromeRemote.pdb
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\websocket-sharp.dll
+D:\Works\Won\Bitcoin\Autoupbit\application\Upbit\ChromeRemote\bin\Debug\websocket-sharp.xml
